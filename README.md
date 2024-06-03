@@ -1,7 +1,7 @@
 
-# Hi there 👋
+# Hi there 👋, I'm Unnati Mishra
 
-A seasoned software developer proficient in frontend development with foundational understanding of backend technologies.
+<h4>A seasoned software developer proficient in frontend development with foundational understanding of backend technologies.</h4>
 
 - 🌱 I’m currently learning PHP.
 - 📫 How to reach me: unnati.2125csit1106@kiet.edu
