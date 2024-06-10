@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Unnati Mishra</h1>
-<h4 align="center">A seasoned software developer proficient in frontend development with foundational understanding of backend technologies.</h4>
+<h3 align="center">A seasoned software developer proficient in frontend development with foundational understanding of backend technologies.</h3>
 
 - 🌱 I’m currently learning **PHP.**
 
